@@ -1,0 +1,1 @@
+gcc -Wall -Wextra main.c tokens.c lexer.c nodes.c parser.c values.c interpreter.c -o main
