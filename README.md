@@ -1,4 +1,4 @@
-# C - Simple Math Interpreter
+# C - Simple Math Interpreter [Deprecated]
 
 I tried to make this Interpreter, in CodePulse's way, but I have failed to.
 
@@ -7,6 +7,10 @@ So anytime you use this when evaluating math calculations, segmentation faults, 
 An interpreter, written in C, that can evaluate simple math calculations.
 
 I'd rather write a new interpreter than update this, because everything is kind of messed up.
+
+# Archived
+
+This has been archived, because the code is badly made, and there are risks of segmentation faults, memory leaks, etc.
 
 ## Credits
 
